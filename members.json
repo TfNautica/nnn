@@ -1,14 +1,14 @@
 {
     "members": {
         "TfNautica": {
-            "name": "Наутилия Картресс",
-            "affiliation": "Гамма-учёный",
-            "post": "Глава"
+            "name": "",
+            "affiliation": "",
+            "post": ""
         },
         "dredaus_": {
-            "name": "Дред",
-            "affiliation": "Совет директаров",
-            "post": "Глава | Советник 01"
+            "name": "",
+            "affiliation": "",
+            "post": ""
         }
     }
 }
