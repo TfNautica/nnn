@@ -1,16 +1,14 @@
 {
-    "members": {
-        "TfNautica": {
+    "member": [
+        {
+            "nickname": "TfNautica",
             "name": "Наутилия Картресс",
             "post": "Главный учёный"
         },
-        "dredaus_": {
-            "name": "Дредаус",
-            "post": "Советник [O2]"
+		{
+            "nickname": "dredaus_",
+            "name": "Дредс",
+            "post": "Главный учёный"
         },
-        "MagistrZ": {
-            "name": "Магистр",
-            "post": "Советник [O5]"
-        },
-    }
+    ]
 }
