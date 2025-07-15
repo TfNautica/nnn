@@ -8,7 +8,12 @@
         "dredaus_": {
             "name": "Дредаус",
             "affiliation": "",
-            "post": "Главный пидорас"
-        }
+            "post": "Советник [O2]"
+        },
+        "MagistrZ": {
+            "name": "Магистр",
+            "affiliation": "",
+            "post": "Советник [O5]"
+        },
     }
 }
