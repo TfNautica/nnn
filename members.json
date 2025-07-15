@@ -2,17 +2,14 @@
     "members": {
         "TfNautica": {
             "name": "Наутилия Картресс",
-            "affiliation": "",
             "post": "Главный учёный"
         },
         "dredaus_": {
             "name": "Дредаус",
-            "affiliation": "",
             "post": "Советник [O2]"
         },
         "MagistrZ": {
             "name": "Магистр",
-            "affiliation": "",
             "post": "Советник [O5]"
         },
     }
