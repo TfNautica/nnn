@@ -3,22 +3,26 @@
         {
             "nickname": "TfNautica",
             "name": "Наутилия Картресс",
-            "post": "Главный учёный"
+            "post": "Главный учёный",
+	    "division": "Gamma"
         },
 	{
             "nickname": "MagistrZ",
             "name": "Магистр",
-            "post": "Советник О5"
+            "post": "Советник О5",
+	    "division": "Gamma"
         },
 	{
             "nickname": "Banana_RUS",
             "name": "Бананчик",
-            "post": "Архитектор"
+            "post": "Архитектор",
+	    "division": "Gamma"
         },
 	{
             "nickname": "Yabloko15",
             "name": "Яблоко",
-            "post": "Учёный [02]"
+            "post": "Учёный [02]",
+	    "division": "Gamma"
         }
     ]
 }
