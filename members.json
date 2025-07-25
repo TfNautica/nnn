@@ -23,6 +23,12 @@
             "name": "Яблоко",
             "post": "Учёный [02]",
 	    "division": "Gamma"
+        },
+	{
+            "nickname": "Garde1",
+            "name": "Гарди",
+            "post": "Учёный [02]",
+	    "division": "Gamma"
         }
     ]
 }
